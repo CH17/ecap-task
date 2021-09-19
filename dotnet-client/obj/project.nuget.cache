@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+adaRNviL/E7T6aGCkTEyyrFQ4B1a7xgfxA14jaDj/P4ldVVmjR7tVY6pz18XOy1COjWUKH7r7BKdIedE36dBw==",
+  "success": true,
+  "projectFilePath": "/var/www/html/app/ecap-task/dotnet-client/dotnet-client.csproj",
+  "expectedPackageFiles": [
+    "/home/choyon/.nuget/packages/websocketsharp.core/1.0.0/websocketsharp.core.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
