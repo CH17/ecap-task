@@ -7,8 +7,7 @@ namespace dotnet_client
     {
         static void Main(string[] args)
         {
-             const string SOCKET_URL = "ws://127.0.0.1:8383";
-
+            const string SOCKET_URL = "ws://127.0.0.1:8383";
 
              using (var ws = new WebSocket (SOCKET_URL)) {
 
