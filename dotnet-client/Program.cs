@@ -8,9 +8,6 @@ namespace dotnet_client
         static void Main(string[] args)
         {
 
-            Console.WriteLine ("Connecting....");
-
-
             const string SOCKET_URL = "ws://ecap-server:8383";
 
              using (var ws = new WebSocket (SOCKET_URL)) {
