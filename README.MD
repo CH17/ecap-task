@@ -72,6 +72,8 @@ _You may need to use **sudo** based on your OS_
 
 ## Result
 
+[![ecap-result](https://s9.gifyu.com/images/ezgif-1-dad6c9c0f84f.gif)](https://gifyu.com/image/PDKF)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
